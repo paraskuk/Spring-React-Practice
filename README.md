@@ -51,15 +51,12 @@ This project is a web application built using React for the frontend and Spring 
 
 2. Install dependencies using Yarn or npm:
     ```sh
-    yarn install
-    # or
     npm install
     ```
 
 3. Start the development server:
     ```sh
-    yarn start
-    # or
+
     npm start
     ```
 
